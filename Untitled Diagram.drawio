@@ -1,1 +1,69 @@
-<mxfile host="app.diagrams.net" modified="2020-10-13T11:02:47.248Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" version="13.7.9" etag="lCdW2LSGG3cR_VarmGJf" type="github"><diagram id="zJP5AcSW6nV16gBcvCBX">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-13T11:29:25.056Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="ArfXnvMPfHbIN8Uv-U2g" version="13.7.9" type="github">
+  <diagram id="zJP5AcSW6nV16gBcvCBX" name="Page-1">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vADJVgBltOPABnp0sNd9-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vADJVgBltOPABnp0sNd9-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="135" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vADJVgBltOPABnp0sNd9-2" value="&lt;font style=&quot;font-size: 22px&quot;&gt;Start&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="70" y="20" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vADJVgBltOPABnp0sNd9-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vADJVgBltOPABnp0sNd9-6" target="vADJVgBltOPABnp0sNd9-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vADJVgBltOPABnp0sNd9-6" value="Bil 1 =&lt;br&gt;Bil 2 =&lt;br&gt;Bil 3 =" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=hexagon;perimeter=hexagonPerimeter2;arcSize=6;size=0.27;labelPosition=center;align=center;" vertex="1" parent="1">
+          <mxGeometry x="50" y="120" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vADJVgBltOPABnp0sNd9-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vADJVgBltOPABnp0sNd9-8" target="vADJVgBltOPABnp0sNd9-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vADJVgBltOPABnp0sNd9-8" value="Input bil 1&lt;br&gt;Input bil 2&lt;br&gt;Input bil 3" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="270" y="120" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vADJVgBltOPABnp0sNd9-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.8;entryY=-0.037;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vADJVgBltOPABnp0sNd9-11" target="vADJVgBltOPABnp0sNd9-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vADJVgBltOPABnp0sNd9-11" value="Nilai akhir 4 persen dari&amp;nbsp;&lt;br&gt;rata-rata nilai yang&amp;nbsp;&lt;br&gt;diperoleh" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="470" y="115" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vADJVgBltOPABnp0sNd9-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vADJVgBltOPABnp0sNd9-12" target="vADJVgBltOPABnp0sNd9-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vADJVgBltOPABnp0sNd9-12" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Rata-rata = Bil1+Bil2+Bil3 / 3&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="490" y="250" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vADJVgBltOPABnp0sNd9-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vADJVgBltOPABnp0sNd9-18" target="vADJVgBltOPABnp0sNd9-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vADJVgBltOPABnp0sNd9-18" value="Rata-rata nilai yang&amp;nbsp;&lt;br&gt;kamu peroleh" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="280" y="250" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vADJVgBltOPABnp0sNd9-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vADJVgBltOPABnp0sNd9-20" target="vADJVgBltOPABnp0sNd9-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vADJVgBltOPABnp0sNd9-20" value="Nilai akhr = Rata-rata x 4%" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="270" y="390" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vADJVgBltOPABnp0sNd9-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vADJVgBltOPABnp0sNd9-22" target="vADJVgBltOPABnp0sNd9-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vADJVgBltOPABnp0sNd9-22" value="Nilai akhir yang kamu peroleh adalah&amp;nbsp;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="50" y="385" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vADJVgBltOPABnp0sNd9-24" value="Stop" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="180" y="540" width="130" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
